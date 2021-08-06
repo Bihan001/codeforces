@@ -1,0 +1,13 @@
+{
+  "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 150, AllowShortIfStatementsOnASingleLine: true, UseTab: Never}",
+  "files.associations": {
+    "iostream": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 150, AllowShortIfStatementsOnASingleLine: true, UseTab: Never}",
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#002d35",
+    "titleBar.activeBackground": "#002d35",
+    "titleBar.activeForeground": "#dfdfdf"
+  }
+}
