@@ -9,7 +9,8 @@
     "string": "cpp",
     "unordered_map": "cpp",
     "unordered_set": "cpp",
-    "vector": "cpp"
+    "vector": "cpp",
+    "ratio": "cpp"
   },
   "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 150, AllowShortIfStatementsOnASingleLine: true, UseTab: Never}",
   "workbench.colorCustomizations": {
