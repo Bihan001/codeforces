@@ -10,7 +10,8 @@
     "unordered_map": "cpp",
     "unordered_set": "cpp",
     "vector": "cpp",
-    "ratio": "cpp"
+    "ratio": "cpp",
+    "string_view": "cpp"
   },
   "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4, ColumnLimit: 150, AllowShortIfStatementsOnASingleLine: true, UseTab: Never}",
   "workbench.colorCustomizations": {
